@@ -1,0 +1,5 @@
+*iLimb Control
+This project is for the controlling and modeling of the iLimb robot hand. All the programs communicates with the robot hand through serial port.
+
+* Requirements
+So far MATLAB is needed for the program. 
