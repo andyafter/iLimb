@@ -1,4 +1,4 @@
-*iLimb Control
+* iLimb Control
 This project is for the controlling and modeling of the iLimb robot hand. All the programs communicates with the robot hand through serial port.
 
 ** Requirements
@@ -9,29 +9,29 @@ So far MATLAB is needed for the program.
 Here is a few predefined commands that you use through serial port. 
 
 ** Keyboard Code Keys
-|Key |     Pressed Action|
-|0	  | Normal grip|
-|1	  | Standard Precision Pinch Closed|
-|2	  | Standard Tripod Closed|
-|3	  | Thumb Park, continuous|
-|5	  | Lateral grip|
-|6 	 |  Index Point (trigger)|
-|7	  | Standard Precision Open|
-|9	  | Thumb Precision Closed|
-|a	  | Thumb Precision Open|
-|b	  | Thumb Tripod Open|
-|d	  | Standard Tripod Open|
-|e	  | Thumb Tripod Open|
-|f	  | Donning/doffing  glove|
-|o	  | Open all fingers (depends on active fingers in that grip)|
-|c	  | Close all fingers (depends on active fingers in that grip)|
-|t	  | Move thumb individually|
-|i	  | Move index finger individually|
-|m	  | Move middle finger individually|
-|r	  | Move ring finger individually|
-|p	  | Move pinky finger individually|
-|s	  | Stop all movement|
-|x	  | Stop movement of wrist|
-|y	  | Move wrist one direction |
-|z	  | Move wrist other direction (depends on cable orientation)|
+| Key        | Pressed Action                                             |
+| 0	  | Normal grip                                                |
+| 1	  | Standard Precision Pinch Closed                            |
+| 2	  | Standard Tripod Closed                                     |
+| 3	  | Thumb Park, continuous                                     |
+| 5	  | Lateral grip                                               |
+| 6 	 | Index Point (trigger)                                      |
+| 7	  | Standard Precision Open                                    |
+| 9	  | Thumb Precision Closed                                     |
+| a	  | Thumb Precision Open                                       |
+| b	  | Thumb Tripod Open                                          |
+| d	  | Standard Tripod Open                                       |
+| e	  | Thumb Tripod Open                                          |
+| f	  | Donning/doffing  glove                                     |
+| o	  | Open all fingers (depends on active fingers in that grip)  |
+| c	  | Close all fingers (depends on active fingers in that grip) |
+| t	  | Move thumb individually                                    |
+| i	  | Move index finger individually                             |
+| m	  | Move middle finger individually                            |
+| r	  | Move ring finger individually                              |
+| p	  | Move pinky finger individually                             |
+| s	  | Stop all movement                                          |
+| x	  | Stop movement of wrist                                     |
+| y	  | Move wrist one direction                                   |
+| z	  | Move wrist other direction (depends on cable orientation)  |
 
